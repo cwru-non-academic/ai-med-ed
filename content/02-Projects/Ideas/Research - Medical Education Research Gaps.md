@@ -24,7 +24,7 @@ use-case:
 stakeholders:
   - "[[Research Faculty]]"
   - "[[Graduate Students/Fellows]]"
-  - "[[Librarians]]"
+  - "[[Library Services]]"
   - "[[Medical Student Research]]"
   - "[[Students]]"
 ---
@@ -97,7 +97,7 @@ Comprehensive AI system that: (1) automatically scans and scrapes research datab
 
 - [[Research Faculty]]
 - [[Graduate Students/Fellows]]
-- [[Librarians]]
+- [[Library Services]]
 - [[Medical Student Research]]
 - [[Students]]
 

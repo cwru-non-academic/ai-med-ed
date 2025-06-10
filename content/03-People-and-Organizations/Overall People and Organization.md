@@ -117,25 +117,7 @@ Invited to cocktail hour April 25, had an absolute blast
 	* Met with him and Erin at IC on March 18
 * **Erin Henninger**, MBA - Executive Director
 	* Coordinating the Smart Med School?
-## Meeting Priority Framework
 
-### **Immediate (Pre-June 9 Retreat)**
-
-1. ✅ **Kelli Qua** (June 3) - CQI Dashboard
-2. **Xiaomei Song** - Assessment automation
-3. **Anastasia Rowland-Seymour** - Innovation partnership
-
-### **Strategic (Post-Retreat)**
-
-4. **Daniel Salcedo** - Technology implementation
-5. **Christian Essman/Lina Mehta** - Admissions AI
-6. **Rosa Hand** - Research applications
-
-### **Implementation Support**
-
-7. **Minoo Darvish/Kate Miller** - Curriculum integration
-8. **Neil Mehta** - Multi-institutional perspective
-9. **Mandy Chen** - IT Director, School of Medicine
 
 ## Key AI Application Areas by Leader
 
