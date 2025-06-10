@@ -1,4 +1,4 @@
-# Project Portfolio Dashboard
+
 
 > **Last Updated**: June 10, 2025
 
@@ -12,6 +12,7 @@
 | **[Assessment - Assignment and Reflection Grading](02-Projects/Ideas/Assessment%20-%20Assignment%20and%20Reflection%20Grading.md)** | Ideas | Course Faculty, Students, Student Affairs |
 | **[Assessment - Clerkship Evaluation Enhancement](02-Projects/Ideas/Assessment%20-%20Clerkship%20Evaluation%20Enhancement.md)** | Ideas | Clinical Faculty, Students, Innovation & Technology |
 | **[Assessment - Clinical Documentation Grading System](02-Projects/Ideas/Assessment%20-%20Clinical%20Documentation%20Grading%20System.md)** | Ideas | Clinical Faculty, Students, Innovation & Technology |
+| **[Assessment - Faculty Clinical Assessment Enhancement Platform](02-Projects/Ideas/Assessment%20-%20Faculty%20Clinical%20Assessment%20Enhancement%20Platform.md)** | Ideas | Clinical Faculty, Students, Clerkship Directors, Assessment Committee, Innovation & Technology |
 | **[Assessment - Grading System Integration Platform](02-Projects/Ideas/Assessment%20-%20Grading%20System%20Integration%20Platform.md)** | Ideas | Course Faculty, Student Assessment, UTech |
 | **[Assessment - Question Enhancement and Generation Platform](02-Projects/Ideas/Assessment%20-%20Question%20Enhancement%20and%20Generation%20Platform.md)** | Ideas | Faculty, Student Assessment, Innovation & Technology |
 | **[Assessment - Question Review and Validation Platform](02-Projects/Ideas/Assessment%20-%20Question%20Review%20and%20Validation%20Platform.md)** | Ideas | Faculty, Student Assessment, Innovation & Technology |
@@ -30,9 +31,9 @@
 ### Status Distribution
 | Status | Count |
 |--------|-------|
-| **Ideas** | 14 |
+| **Ideas** | 15 |
 | **Active** | 0 |
-| **Total Projects** | 14 |
+| **Total Projects** | 15 |
 
 ---
 
@@ -49,7 +50,7 @@
 ### By Focus Area
 | Focus Area | Project Count |
 |------------|---------------|
-| **Assessment** | 6 |
+| **Assessment** | 7 |
 | **Teaching** | 2 |
 | **Selection** | 1 |
 | **Curriculum** | 2 |
@@ -68,7 +69,7 @@
 | **Augmentation** | 2 |
 | **Modification** | 1 |
 | **Transformation** | 1 |
-| **Redefinition** | 4 |
+| **Redefinition** | 5 |
 
 ---
 
@@ -78,6 +79,7 @@
 - **[Assessment - Assignment and Reflection Grading](02-Projects/Ideas/Assessment%20-%20Assignment%20and%20Reflection%20Grading.md)** - Automated grading for IQ, TS, Portfolio submissions
 - **[Assessment - Clerkship Evaluation Enhancement](02-Projects/Ideas/Assessment%20-%20Clerkship%20Evaluation%20Enhancement.md)** - AI-enhanced clerkship feedback systems
 - **[Assessment - Clinical Documentation Grading System](02-Projects/Ideas/Assessment%20-%20Clinical%20Documentation%20Grading%20System.md)** - SOAP notes and OSCE post-encounter grading
+- **[Assessment - Faculty Clinical Assessment Enhancement Platform](02-Projects/Ideas/Assessment%20-%20Faculty%20Clinical%20Assessment%20Enhancement%20Platform.md)** - Real-time faculty assessment support with conversational AI
 - **[Assessment - Grading System Integration Platform](02-Projects/Ideas/Assessment%20-%20Grading%20System%20Integration%20Platform.md)** - Unified grading workflow system
 - **[Assessment - Question Enhancement and Generation Platform](02-Projects/Ideas/Assessment%20-%20Question%20Enhancement%20and%20Generation%20Platform.md)** - MCQ and assessment question optimization
 - **[Assessment - Question Review and Validation Platform](02-Projects/Ideas/Assessment%20-%20Question%20Review%20and%20Validation%20Platform.md)** - Quality assurance for assessment items
@@ -109,7 +111,7 @@
 | **Faculty** | 6 | Question Enhancement, Learning Objectives, Precision Medical Education |
 | **Innovation & Technology** | 6 | Assessment platforms, Clinical systems |
 | **Student Affairs** | 5 | Admissions Analytics, Tutoring Platform, Institutional Analytics |
-| **Clinical Faculty** | 4 | Clinical Documentation, SP Feedback, Clerkship Enhancement |
+| **Clinical Faculty** | 5 | Clinical Documentation, SP Feedback, Clerkship Enhancement, Faculty Assessment Enhancement |
 | **Student Assessment** | 4 | Grading Integration, Question platforms |
 | **UTech** | 4 | Data Integration, Admissions Analytics, Precision Medical Education |
 | **Medical Education Research** | 3 | Research Gaps, Admissions Analytics, Institutional Analytics |
@@ -133,6 +135,7 @@
 - **[Precision Medical Education](02-Projects/Ideas/Precision%20Medical%20Education.md)** - *Redefinition* - Completely transforms medical education delivery
 - **[Student Support - AI Tutoring and Research Platform](02-Projects/Ideas/Student%20Support%20-%20AI%20Tutoring%20and%20Research%20Platform.md)** - *Redefinition* - Creates new educational support paradigms
 - **[Institutional Analytics - Data Integration and CQI Dashboard](02-Projects/Ideas/Institutional%20Analytics%20-%20Data%20Integration%20and%20CQI%20Dashboard.md)** - *Redefinition* - Fundamentally changes institutional decision-making
+- **[Assessment - Faculty Clinical Assessment Enhancement Platform](02-Projects/Ideas/Assessment%20-%20Faculty%20Clinical%20Assessment%20Enhancement%20Platform.md)** - *Redefinition* - Transforms faculty assessment workflows with real-time AI support
 - **[Admissions - Complete Analytics Platform](02-Projects/Ideas/Admissions%20-%20Complete%20Analytics%20Platform.md)** - *Modification/Transformation* - Significantly redesigns admissions processes
 
 ---

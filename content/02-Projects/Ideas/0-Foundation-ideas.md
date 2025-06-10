@@ -23,13 +23,17 @@ Connect outputs with Elentra/CAE/CAS director for every student so faculty can r
 
 ## Grading/Assessment Assistance
 
-Clinical documentation grading (SOAP notes, OSCE post-encounter notes): [[Assessment - Grading System Integration Platform]]
+Clinical documentation grading (SOAP notes, OSCE post-encounter notes): [[Assessment - Clinical Documentation Grading System]]
 
 Question enhancement and generation (SSEQ, SEQ, MCQ): [[Assessment - Question Enhancement and Generation Platform]]
+
+Question review and validation for quality assurance: [[Assessment - Question Review and Validation Platform]]
 
 Provide high value feedback to students based on Sim Center SP encounters - based on video and audio recordings (e.g., [https://feedbackassist.mcw.edu/](https://feedbackassist.mcw.edu/)). [[Assessment - SP Encounter Feedback]]
 
 Improve feedback in the clerkships, i.e., help CDs write better comments for the summative evaluation using AI to consolidate [[Assessment - Clerkship Evaluation Enhancement]]
+
+Faculty clinical assessment enhancement with real-time conversational AI support: [[Assessment - Faculty Clinical Assessment Enhancement Platform]]
 
 Assignments and reflections (IQ, TS, Portfolio, etc.): grading and feedback [[Assessment - Assignment and Reflection Grading]]
 
