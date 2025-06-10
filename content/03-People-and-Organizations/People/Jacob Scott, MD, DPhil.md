@@ -1,4 +1,0 @@
-https://www.lerner.ccf.org/translational-hematology-oncology/scott/
-https://case.edu/bme/AID2B_Announcement
-
-Cancer is a complex disease that is an aberration of our own tissues, but it still obeys fundamental biological rules. Our greatest challenge in the clinic is the emergence of resistance to our therapies, a process which is governed by Darwinian evolution. Using a suite of mathematical and experimental models, my laboratory seeks to deconvolute the complexity of the evolutionary process into fundamental principles. We aim to use this knowledge to then curtail the evolutionary process to increase the efficacy of targeted therapies and radiation. This same knowledge can be further harnessed to understand the differences in disease progression and therapy response on a personalized basis, so that the right treatment can be given to the right patient at the right time.
