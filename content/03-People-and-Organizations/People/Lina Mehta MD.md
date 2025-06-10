@@ -1,1 +1,0 @@
-https://case.edu/medicine/admissions-programs/md-programs/contact-md-programs/lina-mehta
