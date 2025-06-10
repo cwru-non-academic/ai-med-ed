@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - kgw_branch
+      - kgw_quartz
 
 permissions:
   contents: read
